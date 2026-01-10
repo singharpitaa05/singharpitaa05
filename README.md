@@ -2,7 +2,8 @@
 
 * → Smart India Hackathon '24, Winner @[NIA (National Investigation Agency)](https://nia.gov.in/).
 * → Building [Swasthya Setu](https://swasthyasetu-kartikk.vercel.app/), a unified public healthcare platform designed to address systemic healthcare challenges.
-* → Created [MockVibe](https://github.com/kartikkkandpal/Zingo), bridge to seamless meetings. [Live](https://zingo-kartikk.vercel.app/)
+* → Created [MockVibe](https://github.com/kartikkkandpal/Zingo),Master Your Interviews with
+AI-Powered Mock Practice. [Live](https://zingo-kartikk.vercel.app/)
 * → Reach out to me here [singharpita.05march@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=singharpita.05march@gmail.com), Socials below:
     * ➤ Linkedln: [singharpitaa05](https://linkedin.com/in/singharpitaa05)
     * ➤ Leetcode: [singharpitaa05](https://www.leetcode.com/singharpitaa05)
