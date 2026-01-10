@@ -21,6 +21,7 @@
   <img src="./node.Js.svg" width="40" height="40" alt="Node.js" />
   <img src="./express.svg" width="40" height="40" alt="Express.js" />
   <img src="./mongoDB.svg" width="40" height="40" alt="MongoDB" />
+  <img src="./mySQL.svg" width="40" height="40" alt="My SQL" />
   <img src="./tailwindCSS.svg" width="40" height="40" alt="Tailwind CSS" />
   <img src="./git.svg" width="40" height="40" alt="Git" />
 </p>
