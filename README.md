@@ -23,5 +23,9 @@
   <img src="./express.svg" width="40" height="40" alt="Express.js" />
   <img src="./mongoDB.svg" width="40" height="40" alt="MongoDB" />
   <img src="./tailwindCSS.svg" width="40" height="40" alt="Tailwind CSS" />
+  <img src="./webrtc.svg" width="40" height="40" alt="Webrtc" />
+  <img src="./socket.io.svg" width="40" height="40" alt="Socket.io" />
   <img src="./git.svg" width="40" height="40" alt="Git" />
+  <img src="./aws.svg" width="40" height="40" alt="AWS" />
+  <img src="./postman.svg" width="40" height="40" alt="Postman" />
 </p>
