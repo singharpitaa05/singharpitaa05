@@ -2,16 +2,16 @@
 
 * → Smart India Hackathon '24, Winner @[NIA (National Investigation Agency)](https://nia.gov.in/).
 * → Building [Swasthya Setu](https://swasthyasetu-kartikk.vercel.app/), a unified public healthcare platform designed to address systemic healthcare challenges.
-* → Created [MockVibe](https://github.com/singharpitaa05/MockVibe),Master Your Interviews with
-AI-Powered Mock Practice. [Live](https://mock-vibe-arpitaa.vercel.app/)
+* → Created [MockVibe](https://github.com/singharpitaa05/MockVibe), master your interviews with
+AI-Powered mock practice. [Live](https://mock-vibe-arpitaa.vercel.app/)
 * → Reach out to me here [singharpita.05march@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=singharpita.05march@gmail.com), Socials below:
     * ➤ Linkedln: [singharpitaa05](https://linkedin.com/in/singharpitaa05)
     * ➤ Leetcode: [singharpitaa05](https://www.leetcode.com/singharpitaa05)
 * → Primary technologies and frameworks I actively work with:
-    * ➤ Programming Languages: C++, JavaScript, Typescript, Python, SQL
-    * ➤ Frontend: React.js, Next.js, TailwindCSS, Bootstrap, ShadCN, Redux, Zustand, HTML, CSS
-    * ➤ Backend: Node.js, Express.js, MongoDB, WebRTC, Socket.io, RESTful APIs, Redis 
-    * ➤ Tools and Technologies: Git & GitHub, Multer, Postman, Vercel, Render, JWT, Zod, Docker, AWS, CI/CD, GenAI
+    * ➤ Programming Languages: Java, JavaScript, SQL
+    * ➤ Frontend: React.js, TailwindCSS, Bootstrap, ShadCN, Redux, Zustand, HTML, CSS
+    * ➤ Backend: Node.js, Express.js, MongoDB, WebRTC, Socket.io, RESTful APIs 
+    * ➤ Tools and Technologies: Git & GitHub, Multer, Postman, Vercel, Render, JWT, Zod,  AWS, CI/CD, GenAI
     
 <p align="left" style="display:flex; flex-wrap:wrap; gap:10px; font-size:0;">
   <img src="./javascript.svg" width="40" height="40" alt="JavaScript" />
